@@ -1,1 +1,6 @@
 welcome to second server
+
+
+404 error
+500 error
+600 error
